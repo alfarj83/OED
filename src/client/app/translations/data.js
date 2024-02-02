@@ -966,7 +966,7 @@ const localeData = {
 		"area.unit": "(Need Spanish) Area Unit:",
 		"AreaUnitType.feet": "pies cuadrados",
 		"AreaUnitType.meters": "metros cuadrados",
-		"AreaUnitType.none": "(Need Spanish) no unit",
+		"AreaUnitType.none": "sin unidad",
 		"ascending": "Ascendente",
 		"bar": "Barra",
 		"bar.interval": "Intervalo de barra",
